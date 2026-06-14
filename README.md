@@ -83,7 +83,7 @@ class Solution {
 
 <br/>
 
-| # | 📂 Topic | ✅ Done |
+| # | 📂 Topic | ✅ Problems Done |
 |:-:|:---------|:-------:|
 | 01 | 🧮 Learn the Basics | 
 | 02 | 🔃 Sorting Techniques |
