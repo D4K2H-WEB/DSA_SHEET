@@ -72,16 +72,44 @@ class Solution {
 };
 ```
 
----
-
-## 📊 Progress Snapshot
-
-| Topic Progress - No of Problems Done |
-| Learn the Basics - |
-
-
 
 ---
+
+## 📊 Progress Tracker
+
+<div align="center">
+
+> 🗓️ **Last Updated:** `14-06-2026` &nbsp;|&nbsp; 🎯 **Target:** 500+ Problems
+
+<br/>
+
+| # | 📂 Topic | Total | ✅ Done |
+|:-:|:---------|:-----:|:-------:|
+| 01 | 🧮 Learn the Basics | 
+| 02 | 🔃 Sorting Techniques |
+| 03 | 📦 Arrays |
+| 04 | 🔍 Binary Search |
+| 05 | 🔤 Strings |
+| 06 | 🔗 Linked List |
+| 07 | 🔄 Recursion & Backtracking |
+| 08 | 💻 Bit Manipulation |
+| 09 | 📚 Stack & Queues |
+| 10 | 🪟 Sliding Window & Two Pointer |
+| 11 | ⛰️ Heaps / Priority Queue |
+| 12 | 🤑 Greedy Algorithms |
+| 13 | 🌳 Binary Trees |
+| 14 | 🌲 Binary Search Trees |
+| 15 | 🕸️ Graphs |
+| 16 | 💡 Dynamic Programming |
+| 17 | 🌐 Tries |
+
+<br/>
+
+
+</div>
+
+---
+
 
 ## 🌟 Support
 
