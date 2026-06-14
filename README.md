@@ -77,7 +77,7 @@ class Solution {
 ## 📊 Progress Snapshot
 
 | Topic Progress - No of Problems Done |
-| Learn the Basics - 
+| Learn the Basics - |
 
 
 
