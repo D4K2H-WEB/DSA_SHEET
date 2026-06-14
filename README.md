@@ -85,8 +85,8 @@ class Solution {
 
 | # | 📂 Topic | ✅ Problems Done |
 |:-:|:---------|:-------:|
-| 01 | 🧮 Learn the Basics | 
-| 02 | 🔃 Sorting Techniques |
+| 01 | 🧮 Learn the Basics | 3 
+| 02 | 🔃 Sorting Techniques | 3
 | 03 | 📦 Arrays |
 | 04 | 🔍 Binary Search |
 | 05 | 🔤 Strings |
