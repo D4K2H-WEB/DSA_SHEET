@@ -79,12 +79,12 @@ class Solution {
 
 <div align="center">
 
-> 🗓️ **Last Updated:** `14-06-2026` &nbsp;|&nbsp; 🎯 **Target:** 500+ Problems
+> 🗓️ **Last Updated:** `14-06-2026` &nbsp;|&nbsp; 🎯 **Target:** 500+ Problems => ___ Done!
 
 <br/>
 
-| # | 📂 Topic | Total | ✅ Done |
-|:-:|:---------|:-----:|:-------:|
+| # | 📂 Topic | ✅ Done |
+|:-:|:---------|:-------:|
 | 01 | 🧮 Learn the Basics | 
 | 02 | 🔃 Sorting Techniques |
 | 03 | 📦 Arrays |
