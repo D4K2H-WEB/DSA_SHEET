@@ -79,7 +79,7 @@ class Solution {
 
 <div align="center">
 
-> 🗓️ **Last Updated:** `14-06-2026` &nbsp;|&nbsp; 🎯 **Target:** 500+ Problems => ___ Done!
+> 🗓️ **Last Updated:** `14-06-2026` &nbsp;|&nbsp; 🎯 **Target:** 500+ Problems => 14 Done!
 
 <br/>
 
@@ -87,7 +87,7 @@ class Solution {
 |:-:|:---------|:-------:|
 | 01 | 🧮 Learn the Basics | 3 
 | 02 | 🔃 Sorting Techniques | 5
-| 03 | 📦 Arrays |
+| 03 | 📦 Arrays | 6
 | 04 | 🔍 Binary Search |
 | 05 | 🔤 Strings |
 | 06 | 🔗 Linked List |
