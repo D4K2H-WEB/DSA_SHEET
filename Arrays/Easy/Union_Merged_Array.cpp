@@ -16,7 +16,7 @@ public:
                 if(result.empty() || result.back()!=nums1[i]){
                     result.emplace_back(nums1[i]);
                 }
-                i++;
+                i++; 
             }
 
           else if(nums1[i]>nums2[j])

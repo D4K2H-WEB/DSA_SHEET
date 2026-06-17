@@ -56,4 +56,4 @@ public:
         }
         return nums[nums.size()-1];
     }
-};
+}; 

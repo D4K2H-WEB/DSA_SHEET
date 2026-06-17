@@ -28,7 +28,7 @@ public:
 
 class Solution {
 public:
-    int longestSubarray(vector<int>& nums, int k) {
+    int longestSubarray(vector<int>& nums, int k) { 
         unordered_map<long long, int> mp;
 
         long long sum = 0;

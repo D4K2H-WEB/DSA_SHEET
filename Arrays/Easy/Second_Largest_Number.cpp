@@ -17,7 +17,7 @@ public:
                 secondLargest = num;
             }
         }
-
+ 
         return secondLargest;
     }
 };

@@ -12,4 +12,4 @@ public:
             nums.push_back(0);
         }
     }
-};
+}; 
