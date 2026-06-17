@@ -109,7 +109,33 @@ class Solution {
 </div>
 
 ---
+# ⚡ Tech Stack
 
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="70"/><br>
+Python
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=cpp" width="70"/><br>
+C++
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="70"/><br>
+Git
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="70"/><br>
+GitHub
+</td>
+</tr>
+</table>
+
+---
 
 ## 🌟 Support
 
