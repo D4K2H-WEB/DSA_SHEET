@@ -36,20 +36,23 @@ DSA_SHEET/
 ├── 📂 Step 01 — Learn the Basics/
 ├── 📂 Step 02 — Sorting Techniques/
 ├── 📂 Step 03 — Arrays/
-├── 📂 Step 04 — Binary Search/
-├── 📂 Step 05 — Strings/
-├── 📂 Step 06 — Linked List/
-├── 📂 Step 07 — Recursion & Backtracking/
-├── 📂 Step 08 — Bit Manipulation/
-├── 📂 Step 09 — Stack & Queues/
-├── 📂 Step 10 — Sliding Window & Two Pointer/
-├── 📂 Step 11 — Heaps/
-├── 📂 Step 12 — Greedy Algorithms/
+├── 📂 Step 04 — Hashing/
+├── 📂 Step 05 — Binary Search/
+├── 📂 Step 06 — Strings (Basic & Medium)/
+├── 📂 Step 07 — Recursion/
+├── 📂 Step 08 — Linked List/
+├── 📂 Step 09 — Bit Manipulation/
+├── 📂 Step 10 — Greedy Algorithms/
+├── 📂 Step 11 — Sliding Window & Two Pointer/
+├── 📂 Step 12 — Stack & Queues/
 ├── 📂 Step 13 — Binary Trees/
 ├── 📂 Step 14 — Binary Search Trees/
-├── 📂 Step 15 — Graphs/
-├── 📂 Step 16 — Dynamic Programming/
-├── 📂 Step 17 — Tries/
+├── 📂 Step 15 — Heaps/
+├── 📂 Step 16 — Graphs/
+├── 📂 Step 17 — Dynamic Programming/
+├── 📂 Step 18 — Tries/
+├── 📂 Step 19 — Strings (Advanced Algo)/
+├── 📂 Step 20 — Maths/
 │
 ├── 📄 README.md
 └── 📄 .gitignore
@@ -79,29 +82,32 @@ class Solution {
 
 <div align="center">
 
-> 🗓️ **Last Updated:** `14-06-2026` &nbsp;|&nbsp; 🎯 **Target:** 500+ Problems => 44 Done!
+> 🗓️ **Last Updated:** `14-06-2026` &nbsp;|&nbsp; 🎯 **Target:** 500+ Problems => 58 Done!
 
 <br/>
 
 | # | 📂 Topic | ✅ Problems Done |
 |:-:|:---------|:-------:|
-| 01 | 🧮 Learn the Basics | 3 
-| 02 | 🔃 Sorting Techniques | 5
-| 03 | 📦 Arrays | 36
-| 04 | 🔍 Binary Search |
-| 05 | 🔤 Strings |
-| 06 | 🔗 Linked List |
-| 07 | 🔄 Recursion & Backtracking |
-| 08 | 💻 Bit Manipulation |
-| 09 | 📚 Stack & Queues |
-| 10 | 🪟 Sliding Window & Two Pointer |
-| 11 | ⛰️ Heaps / Priority Queue |
-| 12 | 🤑 Greedy Algorithms |
-| 13 | 🌳 Binary Trees |
-| 14 | 🌲 Binary Search Trees |
-| 15 | 🕸️ Graphs |
-| 16 | 💡 Dynamic Programming |
-| 17 | 🌐 Tries |
+| 01 | 🧮 Learn the Basics | 3 |
+| 02 | 🔃 Sorting Techniques | 5 |
+| 03 | 📦 Arrays | 36 |
+| 04 | #️⃣ Hashing | 2 |
+| 05 | 🔍 Binary Search | 12 |
+| 06 | 🔤 Strings (Basic & Medium) | |
+| 07 | 🔄 Recursion | |
+| 08 | 🔗 Linked List | |
+| 09 | 💻 Bit Manipulation | |
+| 10 | 🎯 Greedy Algorithms | |
+| 11 | 🪟 Sliding Window / 2 Pointer | |
+| 12 | 📚 Stack / Queues | |
+| 13 | 🌳 Binary Trees | |
+| 14 | 🌲 Binary Search Trees | |
+| 15 | ⛰️ Heaps | |
+| 16 | 🕸️ Graphs | |
+| 17 | 💡 Dynamic Programming | |
+| 18 | 🔤 Tries | |
+| 19 | 🔠 Strings (Advanced Algo) | |
+| 20 | ➗ Maths | |
 
 <br/>
 
